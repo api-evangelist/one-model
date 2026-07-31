@@ -1,0 +1,26 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.onemodel.co/security
+standards:
+- id: iso-27001-2022
+  conforms: true
+  evidence: 'ISO 27001:2022 certification published on the security page; Certificate
+    of Registration listed via IAF CertSearch'
+  reference: https://www.iafcertsearch.org/certification/OTySyEW4CbmlEwsDcfwopiBN
+- id: soc2-type2
+  conforms: true
+  evidence: 'SOC 2 Type II attestation stated on the security page (data protection,
+    privacy, operational security)'
+- id: gdpr
+  conforms: true
+  evidence: 'GDPR Data Processor requirements adherence stated on the security page;
+    annual information security training for all employees'
+- id: hipaa
+  conforms: false
+  evidence: no HIPAA certification claimed on the public security page
+notes: >-
+  One Model is a people-analytics SaaS platform. Compliance posture is published on
+  the marketing security page; no public OpenAPI/API reference was reachable to derive
+  cross-cutting API standards (oauth2/oidc/rfc9457/pagination). Standards asserted here
+  are the provider's published organizational security certifications, not spec-derived
+  API conformance.

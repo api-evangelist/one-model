@@ -1,0 +1,24 @@
+# One Model
+
+> One Model is an HR / people-analytics software platform that unifies fragmented workforce data (HRIS, ATS, payroll, engagement, performance, finance) into a governed data mesh and applies AI to generate insights for HR leaders and executives. Products include Data Mesh, Data Stories, One AI (predictive modeling + natural-language assistant), and enterprise AI connections (including an MCP Server Access add-on) that let governed people data feed tools like ChatGPT, Copilot, and Claude.
+
+## Products
+- [One AI](https://www.onemodel.co/products/one-ai): AI-powered predictive people-analytics modeling and a natural-language assistant.
+- [Data Mesh](https://www.onemodel.co/products/data-mesh): unify, govern, and activate workforce data across HR, Finance, and operations systems.
+- [One AI Data Intelligence](https://www.onemodel.co/products/one-ai-data-intelligence): agentic AI over governed people data.
+
+## Trust & Compliance
+- [Security](https://www.onemodel.co/security): ISO 27001:2022, SOC 2 Type II, and GDPR (Data Processor) posture.
+- [Privacy Policy](https://www.onemodel.co/privacy-policy)
+- [Terms & Conditions](https://www.onemodel.co/terms-and-conditions)
+
+## Resources
+- [Pricing](https://www.onemodel.co/pricing): Essentials, Data Mesh, and Enterprise editions (quote-based); MCP Server Access is an add-on/included feature.
+- [Blog](https://www.onemodel.co/blog)
+- [Whitepapers](https://www.onemodel.co/whitepapers)
+- [Help Center](https://help.onemodel.co/hc)
+- [Request a Demo](https://www.onemodel.co/get-demo)
+
+## Notes for agents
+- No public developer portal, OpenAPI/Swagger spec, or API reference was reachable at the time of profiling; API integrations and an MCP Server are offered as configurable product features to customers on Data Mesh / Enterprise plans (see pricing).
+- Data connectors named publicly include Workday, SAP SuccessFactors, Oracle/PeopleSoft, Greenhouse, and Qualtrics (inbound source connectors, not a public customer API).
