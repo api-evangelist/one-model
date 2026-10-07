@@ -1,0 +1,34 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.onemodel.co/pricing
+sources:
+- https://www.onemodel.co/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric price is published on the pricing page; Editions comparison page; all three editions
+  show only "Get a quote". No numeric prices; some features noted as "Pay as you go" or add-ons without
+  amounts.
+plan_count: 3
+plans:
+- name: Essentials
+  price_text: Get a quote
+  period: none
+  included_quota: Pre-built insight Packs for fast answers to your most critical HR questions
+- name: Data Mesh
+  price_text: Get a quote
+  period: none
+  included_quota: Unify, govern, and activate all your data across sources
+- name: Enterprise
+  price_text: Get a quote
+  period: none
+  included_quota: End-to-end people analytics with AI
